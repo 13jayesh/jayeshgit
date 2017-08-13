@@ -7,14 +7,14 @@
  * @since:   7-8-2017
  *********************************************************************************/
 
-package com.bridgelabz.util;
+//package com.bridgelabz.util;
 
 public class IntOpt {
     public static void main(String args[]){
-        int a = Integer.parseInt(args[0]);
-        int b = Integer.parseInt(args[1]);
-        int c = Integer.parseInt(args[2]);
-        int ans;
+        double a = Double.parseDouble(args[0]);
+        double b = Double.parseDouble(args[1]);
+        double c = Double.parseDouble(args[2]);
+        double ans;
 
         ans = a + b * c;
         System.out.println(a + "+" + b + "*" + c + " = " + ans);

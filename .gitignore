@@ -1,3 +1,4 @@
 #ignore binary file
 *.class
 *.*~
+bin

@@ -1,0 +1,25 @@
+/********************************************************************************
+ * Purpose: power of two
+ *
+ * @author:  jayesh patil
+ * @version: V1.0
+ * @since:   7-8-2017
+ *********************************************************************************/
+
+// package com.bridgelabz.util;
+
+public class power of two
+{
+public static void main(String args[])
+{
+int x=Integer.parseInt(args[0]);	
+
+double b=0,i;
+for(i=1;i<x;i++)
+{
+b=Math.pow(2,i);
+
+System.out.println("powers of 2 is"+b );
+}
+}
+}
