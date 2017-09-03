@@ -7,7 +7,7 @@
  * @since:   7-8-2017
  *********************************************************************************/
 
-package com.bridgelabz.util;
+//package com.bridgelabz.util;
 
 public class PrimeNoInRange {
     public static void main(String args[]){

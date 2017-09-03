@@ -22,7 +22,7 @@ public class IntOpt {
         ans = a * b + c;
         System.out.println(a + "*" + b + "+" + c + " = " + ans);
 
-        ans = c + a / b;
+        ans = c + ( a/ b);
         System.out.println(c + "+" + a + "/" + b + " = " + ans);
 
         ans = a % b + c;

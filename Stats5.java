@@ -7,9 +7,10 @@
  * @since:   7-8-2017
  *********************************************************************************/
 
-package com.bridgelabz.util;
+//package com.bridgelabz.util;
 
-public class Stats5 {
+public class Stats5 
+{
     public static void main(String args[]){
         double no1 = Math.random();
         double no2 = Math.random();
